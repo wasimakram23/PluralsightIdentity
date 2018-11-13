@@ -1,0 +1,14 @@
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\IdentityConsole.exe.config
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\IdentityConsole.exe
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\IdentityConsole.pdb
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\EntityFramework.dll
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\EntityFramework.xml
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\obj\Debug\IdentityConsole.csprojResolveAssemblyReference.cache
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\obj\Debug\IdentityConsole.exe
+D:\Development\C#\Workplace\IdentityConsole\IdentityConsole\obj\Debug\IdentityConsole.pdb
